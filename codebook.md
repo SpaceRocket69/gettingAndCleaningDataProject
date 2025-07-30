@@ -10,7 +10,7 @@ This repo contains two data sets:
 
 ### Variables
 
-- df_subset
+#### df_subset
 
 This dataset contains the colums:
   - "subject": Which subject performed the activity
@@ -24,7 +24,7 @@ This dataset contains the colums:
     - Components like `BodyAcc`, `GravityAcc`, `Gyro`, `Jerk` describe the source or type of signal
     - Suffixes `-X`, `-Y`, `-Z` indicate the axis
 
-- summary
+#### summary
 
 This dataset contains the same variables as `df_subset`, but each value represents
 the average of that measurement for each combination of subject and activity.
